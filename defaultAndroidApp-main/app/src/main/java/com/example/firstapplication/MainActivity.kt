@@ -47,6 +47,7 @@ class MainActivity : AppCompatActivity() {
     //Simulación de la implementación de la historia de usuario Añadir Vuelo - Integrar funcionalidad - rol Product Owner
 
     //Simulación de la implementación de la historia de usuario Eliminar Vuelo - Implementar funcionalidad - rol Scrum master
+    //Simulación de la implementación de la historia de usuario Eliminar Vuelo - integrar funcionalidad - rol Product owner
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
         // Inflate the menu; this adds items to the action bar if it is present.

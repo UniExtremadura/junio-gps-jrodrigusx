@@ -44,6 +44,7 @@ class MainActivity : AppCompatActivity() {
         navView.setupWithNavController(navController)
     }
     //Simulación de la implementación de la historia de usuario Añadir Vuelo - Implementar funcionalidad - rol Scrum master
+    //Simulación de la implementación de la historia de usuario Añadir Vuelo - Integrar funcionalidad - rol Product Owner
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
         // Inflate the menu; this adds items to the action bar if it is present.
